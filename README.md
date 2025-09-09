@@ -43,7 +43,7 @@
 - **Subtypes:** After grouping synonyms, **glioblastoma** is the most studied specific subtype; many trials use general labels (“brain cancer/general” or other/unspecified), reflecting uneven condition reporting.
 
 ## Figures
-See `/figures` for PNGs. Each notebook writes out the plot(s).
+See `/Notebook` for figure outputs. Each block in the notebook writes out the plot(s).
 
 ## Limitations
 - Registry fields (Phase, Condition) are free-text or inconsistently used; “Unknown phase” and generic conditions are common.
